@@ -106,37 +106,7 @@ const NavBar = () => {
                 <Link href="#">Home</Link>
                 <ul className="sub-menu">
                   <li>
-                    <Link href="/index-1">IT / Softwer Agency</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-2">SaaS App Landing</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-3">Payments Solution</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-4">Software Company</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-5">Artificial Intelligence</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-6">NFT Service</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-7">Cyber Security</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-8">Hardware Service</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-9">ICO Landing</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-10">Personal Portfolio</Link>
-                  </li>
-                  <li>
-                    <Link href="/index-11">SEO Service</Link>
+                    <Link href="/">Home</Link>
                   </li>
                 </ul>
               </li>
@@ -144,22 +114,10 @@ const NavBar = () => {
                 <Link href="#">Service</Link>
                 <ul className="sub-menu">
                   <li>
-                    <Link href="/service">Service 01</Link>
+                    <Link href="/service">Services</Link>
                   </li>
                   <li>
-                    <Link href="/service-2">Service 02</Link>
-                  </li>
-                  <li>
-                    <Link href="/service-3">Service 03</Link>
-                  </li>
-                  <li>
-                    <Link href="/service-4">Service 04</Link>
-                  </li>
-                  <li>
-                    <Link href="/service-5">Service 05</Link>
-                  </li>
-                  <li>
-                    <Link href="/service-details">Service Single</Link>
+                    <Link href="/service-details">Service Details</Link>
                   </li>
                 </ul>
               </li>
@@ -170,147 +128,32 @@ const NavBar = () => {
                     <Link href="/about">About Us</Link>
                   </li>
                   <li>
-                    <Link href="/team">Team 01</Link>
-                  </li>
-                  <li>
-                    <Link href="/team-2">Team 02</Link>
-                  </li>
-                  <li>
-                    <Link href="/team-3">Team 03</Link>
+                    <Link href="/team">Team</Link>
                   </li>
                   <li>
                     <Link href="/team-details">Team Details</Link>
                   </li>
                   <li>
-                    <Link href="/pricing">Pricing 01</Link>
-                  </li>
-                  <li>
-                    <Link href="/pricing-2">Pricing 02</Link>
+                    <Link href="/pricing">Pricing</Link>
                   </li>
                 </ul>
               </li>
-              <li className="menu-item-has-children mega-menu">
-                <Link href="#">Mega Menu</Link>
-                <div className="sub-menu">
-                  <div className="row">
-                    <div className=" mb-lg-4 col-lg-4 col-xl-3">
-                      <ul>
-                        <li>
-                          <Link href="/index-1">IT / Softwer Agency</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-2">SaaS App Landing</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-3">Payments Solution</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-4"> Software Company</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-5">Artificial Intelligence</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-6">NFT Service</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-7">Cyber Security</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-8">Hardware Service</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-9">ICO Landing</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-10">Personal Portfolio</Link>
-                        </li>
-                        <li>
-                          <Link href="/index-11">SEO Service</Link>
-                        </li>
-                      </ul>
-                    </div>
-                    <div className=" mb-lg-4 col-lg-4 col-xl-3">
-                      <ul>
-                        <li>
-                          <Link href="/service">Service 01</Link>
-                        </li>
-                        <li>
-                          <Link href="/service-2">Service 02</Link>
-                        </li>
-                        <li>
-                          <Link href="/service-3">Service 03</Link>
-                        </li>
-                        <li>
-                          <Link href="/service-4">Service 04</Link>
-                        </li>
-                        <li>
-                          <Link href="/service-5">Service 05</Link>
-                        </li>
-                        <li>
-                          <Link href="/service-details">Service Single</Link>
-                        </li>
-                      </ul>
-                    </div>
-                    <div className=" mb-lg-4 col-lg-4 col-xl-3">
-                      <ul>
-                        <li>
-                          <Link href="/project">Project 01</Link>
-                        </li>
-                        <li>
-                          <Link href="/project-2">Project 02</Link>
-                        </li>
-                        <li>
-                          <Link href="/project-3">Project 03</Link>
-                        </li>
-                        <li>
-                          <Link href="/project-details">Case Study Details</Link>
-                        </li>
-                        <li>
-                          <Link href="/pricing">Pricing 01</Link>
-                        </li>
-                        <li>
-                          <Link href="/pricing-2">Pricing 02</Link>
-                        </li>
-                      </ul>
-                    </div>
-                    <div className=" mb-lg-4 col-lg-4 col-xl-3">
-                      <ul>
-                        <li>
-                          <Link href="/about">About Us</Link>
-                        </li>
-                        <li>
-                          <Link href="/team">Team 01</Link>
-                        </li>
-                        <li>
-                          <Link href="/team-2">Team 02</Link>
-                        </li>
-                        <li>
-                          <Link href="/team-3">Team 03</Link>
-                        </li>
-                        <li>
-                          <Link href="/team-details">Team Details</Link>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
+              <li className="menu-item-has-children">
+                <Link href="#">Projects</Link>
+                <ul className="sub-menu">
+                  <li>
+                    <Link href="/project">Projects</Link>
+                  </li>
+                  <li>
+                    <Link href="/project-details">Project Details</Link>
+                  </li>
+                </ul>
               </li>
-
               <li className="menu-item-has-children">
                 <Link href="#">Blog</Link>
                 <ul className="sub-menu">
                   <li>
-                    <Link href="/blog">Blog 01</Link>
-                  </li>
-                  <li>
-                    <Link href="/blog-2">Blog 02</Link>
-                  </li>
-                  <li>
-                    <Link href="/blog-3">Blog 03</Link>
-                  </li>
-                  <li>
-                    <Link href="/blog-4">Blog 04</Link>
+                    <Link href="/blog">Blog</Link>
                   </li>
                   <li>
                     <Link href="/blog-details">Blog Details</Link>
@@ -318,7 +161,7 @@ const NavBar = () => {
                 </ul>
               </li>
               <li>
-                <Link href="/contact">Contact Us</Link>
+                <Link href="/contact">Contact</Link>
               </li>
             </ul>
           </div>
