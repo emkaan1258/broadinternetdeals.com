@@ -36,14 +36,13 @@ const FaqAreaOne = () => {
               data-aos-duration='1500'
             >
               <div className='section-title mb-0 mt-4 mt-lg-0'>
-                <h6 className='sub-title'>SOME FAQ'S</h6>
+                <h6 className='sub-title'>CONNECTIVITY FAQ'S</h6>
                 <h2 className='title'>
-                  Creating <span>Digital</span> Masterpieces
+                  Your <span>Telecom</span> Questions Answered
                 </h2>
                 <p className='content'>
-                  It is a long established fact that a reader will be distr
-                  acted bioiiy the end gail designa readable content of a page
-                  when looking.
+                  Get instant answers about our 5G networks, fiber internet, and support services.
+                  Can't find what you need? Our team is available 24/7.
                 </p>
               </div>
               <div
@@ -60,7 +59,7 @@ const FaqAreaOne = () => {
                       aria-expanded='true'
                       aria-controls='collapseOne'
                     >
-                      What services do you offer?
+                      What internet speeds do you offer?
                     </button>
                   </h2>
                   <div
@@ -70,9 +69,8 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                      Many desktop publishing packages and web page editors now
-                      use Lorem Ipsum as their default model text, search for
-                      'lorem ipsum' will uncover
+                      We provide fiber-optic plans up to 1Gbps for homes and 10Gbps for businesses.
+                      5G mobile plans offer speeds up to 300Mbps depending on location.
                     </div>
                   </div>
                 </div>
@@ -86,7 +84,7 @@ const FaqAreaOne = () => {
                       aria-expanded='false'
                       aria-controls='collapseTwo'
                     >
-                      How long does it take for you to complete a project?
+                      How quickly can you install new service?
                     </button>
                   </h2>
                   <div
@@ -96,9 +94,8 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                      Many desktop publishing packages and web page editors now
-                      use Lorem Ipsum as their default model text, search for
-                      'lorem ipsum' will uncover
+                      Most installations are completed within 2-3 business days in covered areas.
+                      Business fiber installations may take 5-7 days for custom configurations.
                     </div>
                   </div>
                 </div>
@@ -112,7 +109,7 @@ const FaqAreaOne = () => {
                       aria-expanded='false'
                       aria-controls='collapseThree'
                     >
-                      How much does it cost to work with your agency?
+                      What's included in your 24/7 support?
                     </button>
                   </h2>
                   <div
@@ -122,9 +119,8 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                      Many desktop publishing packages and web page editors now
-                      use Lorem Ipsum as their default model text, search for
-                      'lorem ipsum' will uncover
+                      Our support covers troubleshooting, equipment replacement, and technician dispatch.
+                      Average response time is under 30 minutes for critical outages.
                     </div>
                   </div>
                 </div>

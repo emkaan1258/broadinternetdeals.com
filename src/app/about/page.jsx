@@ -2,6 +2,7 @@ import AboutAreaOne from "@/components/AboutAreaOne";
 import Breadcrumb from "@/components/Breadcrumb";
 import ContactAreaOne from "@/components/ContactAreaOne";
 import CounterAreaOne from "@/components/CounterAreaOne";
+import Disclaimer from "@/components/Disclaimer";
 import FaqAreaOne from "@/components/FaqAreaOne";
 import FooterOne from "@/components/FooterOne";
 import NavBar from "@/components/NavBar";
@@ -38,7 +39,7 @@ const page = () => {
       <FaqAreaOne />
 
       {/* Team Area One */}
-      <TeamAreaOne />
+      {/* <TeamAreaOne /> */}
 
       {/* Counter Area One */}
       <CounterAreaOne />
@@ -48,7 +49,7 @@ const page = () => {
 
       {/* Work Process One */}
       <WorkProcessOne />
-
+<Disclaimer/>
       {/* Footer One */}
       <FooterOne />
 

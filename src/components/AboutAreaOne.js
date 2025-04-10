@@ -43,14 +43,14 @@ const AboutAreaOne = () => {
               data-aos-duration='1500'
             >
               <div className='section-title mt-5 mt-lg-0'>
-                <h6 className='sub-title'>ABOUT US</h6>
+                <h6 className='sub-title'>CONNECTING THE WORLD</h6>
                 <h2 className='title'>
-                  It Is A Critical Component Of <span>Modern</span> Businesses
+                  We Power <span>Next-Gen</span> Digital Infrastructure
                 </h2>
                 <p className='content mb-4 mb-xl-5'>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry Loreaim Ipsum has been the industry's
-                  standard dummy
+                  As a leading telecom and internet provider, we deliver ultra-fast 5G networks and
+                  fiber-optic solutions to homes and businesses across the country.
+                  Our mission is to bridge the digital divide with reliable connectivity.
                 </p>
                 <div className='row'>
                   <div className='col-md-6'>
@@ -59,10 +59,10 @@ const AboutAreaOne = () => {
                         <img src='assets/img/icon/2.png' alt='img' />
                       </div>
                       <div className='details'>
-                        <h5>Our Ambition</h5>
+                        <h5>Our Network</h5>
                         <p>
-                          Lorem is Ipsum is simply is design iomyi is text Lorem
-                          Ipsum is simply is our busi designer is our country.
+                          Nationwide 5G coverage with 99.9% uptime.
+                          Fiber-optic backbone ensures low latency for gaming and streaming.
                         </p>
                       </div>
                     </div>
@@ -73,10 +73,10 @@ const AboutAreaOne = () => {
                         <img src='assets/img/icon/3.png' alt='img' />
                       </div>
                       <div className='details'>
-                        <h5>Our Ambition</h5>
+                        <h5>Our Commitment</h5>
                         <p>
-                          Lorem is Ipsum is simply is design iomyi is text Lorem
-                          Ipsum is simply is our busi designer is our country.
+                          24/7 customer support and on-site technicians.
+                          No contracts, no hidden fees—just seamless connectivity.
                         </p>
                       </div>
                     </div>

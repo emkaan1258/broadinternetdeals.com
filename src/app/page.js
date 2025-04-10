@@ -4,6 +4,7 @@ import BlogAreaOne from "@/components/BlogAreaOne";
 import CaseStudyAreaOne from "@/components/CaseStudyAreaOne";
 import ContactAreaOne from "@/components/ContactAreaOne";
 import CounterAreaOne from "@/components/CounterAreaOne";
+import Disclaimer from "@/components/Disclaimer";
 import FaqAreaOne from "@/components/FaqAreaOne";
 import FooterOne from "@/components/FooterOne";
 import NavBar from "@/components/NavBar";
@@ -42,7 +43,7 @@ const page = () => {
       <CaseStudyAreaOne />
 
       {/* Team Area One */}
-      <TeamAreaOne />
+      {/* <TeamAreaOne /> */}
 
       {/* Counter Area One */}
       <CounterAreaOne />
@@ -57,8 +58,8 @@ const page = () => {
       <PricingAreaOne />
 
       {/* Blog Area One */}
-      <BlogAreaOne />
-
+      {/* <BlogAreaOne /> */}
+< Disclaimer/>
       {/* Footer One */}
       <FooterOne />
 

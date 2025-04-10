@@ -102,67 +102,53 @@ const NavBar = () => {
             id="itech_main_menu"
           >
             <ul className="navbar-nav menu-open text-lg-end">
-              <li className="menu-item-has-children">
-                <Link href="#">Home</Link>
-                <ul className="sub-menu">
-                  <li>
-                    <Link href="/">Home</Link>
-                  </li>
-                </ul>
+              <li>
+                <Link href="/">Home</Link>
               </li>
-              <li className="menu-item-has-children">
-                <Link href="#">Service</Link>
-                <ul className="sub-menu">
-                  <li>
-                    <Link href="/service">Services</Link>
-                  </li>
-                  <li>
-                    <Link href="/service-details">Service Details</Link>
-                  </li>
-                </ul>
+              <li>
+                <Link href="/service">Services</Link>
               </li>
+              <li > <Link href="/about">About Us</Link></li>
+
+
+
               <li className="menu-item-has-children">
-                <Link href="#">Pages</Link>
-                <ul className="sub-menu">
-                  <li>
-                    <Link href="/about">About Us</Link>
-                  </li>
-                  <li>
-                    <Link href="/team">Team</Link>
-                  </li>
-                  <li>
-                    <Link href="/team-details">Team Details</Link>
-                  </li>
-                  <li>
-                    <Link href="/pricing">Pricing</Link>
-                  </li>
-                </ul>
-              </li>
-              <li className="menu-item-has-children">
-                <Link href="#">Projects</Link>
-                <ul className="sub-menu">
-                  <li>
-                    <Link href="/project">Projects</Link>
-                  </li>
-                  <li>
-                    <Link href="/project-details">Project Details</Link>
-                  </li>
-                </ul>
-              </li>
-              <li className="menu-item-has-children">
-                <Link href="#">Blog</Link>
-                <ul className="sub-menu">
+                <Link href="#">Providers</Link>
+                {/* <ul className="sub-menu">
                   <li>
                     <Link href="/blog">Blog</Link>
                   </li>
                   <li>
                     <Link href="/blog-details">Blog Details</Link>
                   </li>
+                </ul> */}
+              </li>
+              <li className="menu-item-has-children">
+                <Link href="#">Policy</Link>
+                <ul className="sub-menu">
+                 
+                  <li>
+                    <Link href="/termsandcondition">TermsAndConditions</Link>
+                  </li>
+                  <li>
+                    <Link href="/disclaimer">Disclamier</Link>
+                  </li>
+                  <li>  
+                    <Link href="/privacypolicy">PrivacyPolicy</Link>
+                    </li>
+                  {/* <li>
+                    <Link href="/team-details">Team Details</Link>
+                  </li> */}
+                  {/* <li>
+                    <Link href="/pricing">Pricing</Link>
+                  </li> */}
                 </ul>
               </li>
               <li>
                 <Link href="/contact">Contact</Link>
               </li>
+
+
             </ul>
           </div>
           <div className="nav-right-part nav-right-part-desktop align-self-center">

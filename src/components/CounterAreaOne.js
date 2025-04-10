@@ -28,14 +28,13 @@ const CounterAreaOne = () => {
                     {({ isVisible }) =>
                       isVisible && (
                         <span className='counter'>
-                          <CountUp duration={1} delay={0} start={0} end={200} />{" "}
-                          +
+                          <CountUp duration={1} delay={0} start={0} end={500} />+
                         </span>
                       )
                     }
                   </TrackVisibility>
                 </h2>
-                <p className='text-white'>Team member</p>
+                <p className='text-white'>5G Towers Installed</p>
               </div>
             </div>
             <div
@@ -53,14 +52,13 @@ const CounterAreaOne = () => {
                     {({ isVisible }) =>
                       isVisible && (
                         <span className='counter'>
-                          <CountUp duration={1} delay={0} start={0} end={10} />{" "}
-                          k+
+                          <CountUp duration={1} delay={0} start={0} end={25} />k+
                         </span>
                       )
                     }
                   </TrackVisibility>
                 </h2>
-                <p className='text-white'>Team member</p>
+                <p className='text-white'>Fiber Customers</p>
               </div>
             </div>
             <div
@@ -78,18 +76,17 @@ const CounterAreaOne = () => {
                     {({ isVisible }) =>
                       isVisible && (
                         <span className='counter'>
-                          <CountUp duration={3} delay={0} start={0} end={200} />{" "}
-                          +
+                          <CountUp duration={3} delay={0} start={0} end={99.9} />%
                         </span>
                       )
                     }
                   </TrackVisibility>
                 </h2>
-                <p className='text-white'>Team member</p>
+                <p className='text-white'>Network Uptime</p>
               </div>
             </div>
             <div
-              className='col-lg-3 col-sm-6 '
+              className='col-lg-3 col-sm-6'
               data-aos='fade-up'
               data-aos-delay='250'
               data-aos-duration='1500'
@@ -103,14 +100,13 @@ const CounterAreaOne = () => {
                     {({ isVisible }) =>
                       isVisible && (
                         <span className='counter'>
-                          <CountUp duration={3} delay={0} start={0} end={230} />{" "}
-                          +
+                          <CountUp duration={3} delay={0} start={0} end={24} />/7
                         </span>
                       )
                     }
                   </TrackVisibility>
                 </h2>
-                <p className='text-white'>Team member</p>
+                <p className='text-white'>Support Availability</p>
               </div>
             </div>
           </div>

@@ -9,9 +9,9 @@ const TeamAreaOne = () => {
       <div className="team-area bg-relative pd-top-90 pd-bottom-90">
         <div className="container">
           <div className="section-title text-center">
-            <h6 className="sub-title">MEET OUR EXPERTS</h6>
+            <h6 className="sub-title">TELECOM SPECIALISTS</h6>
             <h2 className="title">
-              Your Partner In <span>Digital</span> Success
+              Your Partner In <span>Connectivity</span> Solutions
             </h2>
           </div>
           <div className="row">
@@ -41,7 +41,7 @@ const TeamAreaOne = () => {
                   <h5>
                     <Link href="/team-details">Devon Lane</Link>
                   </h5>
-                  <p>Merketing Department</p>
+                  <p>5G Network Specialist</p>
                 </div>
               </div>
             </div>
@@ -71,7 +71,7 @@ const TeamAreaOne = () => {
                   <h5>
                     <Link href="/team-details">Darrell Steward</Link>
                   </h5>
-                  <p>It Department</p>
+                  <p>Fiber Optics Engineer</p>
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@ const TeamAreaOne = () => {
                   <h5>
                     <Link href="/team-details">Bessie Cooper</Link>
                   </h5>
-                  <p>Software Department</p>
+                  <p>Network Security Expert</p>
                 </div>
               </div>
             </div>

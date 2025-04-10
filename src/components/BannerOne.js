@@ -30,7 +30,7 @@ const BannerOne = () => {
                   data-aos-delay='100'
                   data-aos-duration='1500'
                 >
-                  DESIGNING FOR THE FUTURE
+                  CONNECTING THE FUTURE
                 </h6>
                 <h2
                   className='title'
@@ -38,7 +38,7 @@ const BannerOne = () => {
                   data-aos-delay='200'
                   data-aos-duration='1500'
                 >
-                  Making The <span>Digital</span> World Work For You
+                  Powering Your World With <span>Lightning-Fast</span> Connectivity
                 </h2>
                 <p
                   className='content pe-xl-5'
@@ -46,9 +46,8 @@ const BannerOne = () => {
                   data-aos-delay='250'
                   data-aos-duration='1500'
                 >
-                  And In Order To Make A Business, Brand Advertising And
-                  Marketing Plays An Important Role. Similarly, In Making
-                  Cultivation Business Are Necessary.
+                  Experience seamless 5G and fiber-optic internet for homes and businesses.
+                  Stream, game, and work without limits—backed by 99.9% network reliability.
                 </p>
                 <Link
                   className='btn btn-border-base'
@@ -57,7 +56,7 @@ const BannerOne = () => {
                   data-aos-duration='1500'
                   href='/about'
                 >
-                  Discover More <FaPlus />
+                  Explore Plans <FaPlus />
                 </Link>
               </div>
             </div>

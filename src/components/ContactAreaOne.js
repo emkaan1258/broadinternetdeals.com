@@ -34,13 +34,13 @@ const ContactAreaOne = () => {
                 data-aos-duration="1500"
               >
                 <div className="section-title mb-0">
-                  <h6 className="sub-title">GET IN TOUCH</h6>
+                  <h6 className="sub-title">CONNECT WITH US</h6>
                   <h2 className="title">
-                    Bringing Your <span>Vision</span> To Life
+                    Powering Your <span>Connectivity</span> Needs
                   </h2>
                   <p className="content">
-                    For your car we will do everything advice design in us
-                    repairs and maintenance. We are the some preferred.
+                    Get in touch for 5G solutions, fiber internet inquiries, or enterprise network consultations.
+                    Our experts are ready to assist you 24/7.
                   </p>
                   <form className="mt-4">
                     <div className="row">
@@ -56,17 +56,23 @@ const ContactAreaOne = () => {
                       </div>
                       <div className="col-lg-6">
                         <div className="single-input-inner style-border">
-                          <input type="text" placeholder="Your Phone" />
+                          <input type="text" placeholder="Phone Number" />
                         </div>
                       </div>
                       <div className="col-lg-6">
                         <div className="single-input-inner style-border">
-                          <input type="text" placeholder="Your Subject" />
+                          <select className="form-select">
+                            <option>Service Type</option>
+                            <option>5G Plans</option>
+                            <option>Fiber Internet</option>
+                            <option>Business Solutions</option>
+                            <option>Technical Support</option>
+                          </select>
                         </div>
                       </div>
                       <div className="col-lg-12">
                         <div className="single-input-inner style-border">
-                          <textarea placeholder="Message" defaultValue={''} />
+                          <textarea placeholder="Your Connectivity Requirements" defaultValue={''} />
                         </div>
                       </div>
                       <div className="col-12">
@@ -74,7 +80,7 @@ const ContactAreaOne = () => {
                           className="btn btn-black mt-0 w-100 border-radius-5"
                           href="#"
                         >
-                          Submit now
+                          Request Consultation
                         </Link>
                       </div>
                     </div>

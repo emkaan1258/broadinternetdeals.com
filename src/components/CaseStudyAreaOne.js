@@ -15,9 +15,9 @@ const CaseStudyAreaOne = () => {
         />
         <div className="container">
           <div className="section-title text-center">
-            <h6 className="sub-title">GALLERY HERE</h6>
+            <h6 className="sub-title">OUR NETWORK</h6>
             <h2 className="title">
-              Leading The <span>Digital</span> Revolution
+              Leading The <span>Connectivity</span> Revolution
             </h2>
           </div>
           <div className="row">
@@ -28,10 +28,10 @@ const CaseStudyAreaOne = () => {
                 </div>
                 <div className="details">
                   <h5>
-                    <Link href="/case-study-details">Tecnology Farms</Link>
+                    <Link href="/case-study-details">5G Network Deployment</Link>
                   </h5>
                   <Link className="cat" href="#">
-                    Las vegas
+                    New York
                   </Link>
                   <Link className="right-arrow" href="#">
                     <FaAngleDoubleRight />
@@ -46,10 +46,10 @@ const CaseStudyAreaOne = () => {
                 </div>
                 <div className="details">
                   <h5>
-                    <Link href="/case-study-details">Tecnology Farms</Link>
+                    <Link href="/case-study-details">Fiber Optic Installation</Link>
                   </h5>
                   <Link className="cat" href="#">
-                    Las vegas
+                    Chicago
                   </Link>
                   <Link className="right-arrow" href="#">
                     <FaAngleDoubleRight />
@@ -64,10 +64,10 @@ const CaseStudyAreaOne = () => {
                 </div>
                 <div className="details">
                   <h5>
-                    <Link href="/case-study-details">Tecnology Farms</Link>
+                    <Link href="/case-study-details">Data Center Solutions</Link>
                   </h5>
                   <Link className="cat" href="#">
-                    Las vegas
+                    Dallas
                   </Link>
                   <Link className="right-arrow" href="#">
                     <FaAngleDoubleRight />

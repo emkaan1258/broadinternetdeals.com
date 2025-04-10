@@ -1,5 +1,6 @@
 import Breadcrumb from "@/components/Breadcrumb";
 import ContactMain from "@/components/ContactMain";
+import Disclaimer from "@/components/Disclaimer";
 import FooterOne from "@/components/FooterOne";
 import NavBar from "@/components/NavBar";
 
@@ -25,7 +26,7 @@ const page = () => {
 
       {/* Contact Main */}
       <ContactMain />
-
+<Disclaimer/>
       {/* Footer One */}
       <FooterOne />
 

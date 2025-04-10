@@ -15,9 +15,9 @@ const ServiceAreaGroup = () => {
         />
         <div className='container'>
           <div className='section-title text-center'>
-            <h6 className='sub-title'>CREATIVE SERVICES</h6>
+            <h6 className='sub-title'>TELECOM SERVICES</h6>
             <h2 className='title'>
-              Your Partner In <span>Digital</span> Success
+              Your Partner In <span>Connectivity</span> Solutions
             </h2>
           </div>
           <div className='row'>
@@ -33,7 +33,7 @@ const ServiceAreaGroup = () => {
                     </h5>
                     <p>{data.des}</p>
                     <Link className='btn btn-border-base' href='/service-details'>
-                      Touch More <FaPlus />
+                      Learn More <FaPlus />
                     </Link>
                   </div>
                 </div>

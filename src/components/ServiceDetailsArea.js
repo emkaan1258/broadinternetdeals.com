@@ -17,23 +17,23 @@ const ServiceDetailsArea = () => {
               <div className="td-sidebar service-sidebar">
                 <div className="widget widget_catagory">
                   <h5 className="widget-title">
-                    <FaArrowRight /> All Service lists
+                    <FaArrowRight /> All Service Lists
                   </h5>
                   <ul className="catagory-items">
                     <li>
-                      <Link href="/service-details"> Planning Department</Link>
+                      <Link href="/service-details">Residential Internet</Link>
                     </li>
                     <li>
-                      <Link href="/service-details"> Software Department</Link>
+                      <Link href="/service-details">Business Solutions</Link>
                     </li>
                     <li>
-                      <Link href="/service-details"> Hardware Department</Link>
+                      <Link href="/service-details">5G Wireless Services</Link>
                     </li>
                     <li>
-                      <Link href="/service-details"> It Department</Link>
+                      <Link href="/service-details">Fiber Optic Network</Link>
                     </li>
                     <li>
-                      <Link href="/service-details"> Others Development</Link>
+                      <Link href="/service-details">Cloud Services</Link>
                     </li>
                   </ul>
                 </div>
@@ -43,7 +43,7 @@ const ServiceDetailsArea = () => {
                   </div>
                   <div className="details">
                     <Link className="btn btn-base border-radius-5" href="#">
-                      Discover our company +
+                      Discover Our Network +
                     </Link>
                   </div>
                 </div>
@@ -55,13 +55,13 @@ const ServiceDetailsArea = () => {
                     <li>
                       <Link href="#">
                         {' '}
-                        Company Profile <FaAngleDoubleRight />
+                        Service Brochure <FaAngleDoubleRight />
                       </Link>
                     </li>
                     <li>
                       <Link href="#">
                         {' '}
-                        Zip File Download <FaAngleDoubleRight />
+                        Coverage Map <FaAngleDoubleRight />
                       </Link>
                     </li>
                   </ul>
@@ -76,29 +76,17 @@ const ServiceDetailsArea = () => {
                   </div>
                   <div className="details">
                     <h4>
-                      Making this the first true generator on the Internet
+                      Delivering High-Speed Internet Across the Region
                     </h4>
                     <p>
-                      Cras varius. Donec vitae orci sed dolor rutrum auctor.
-                      Fusce egestas elit eget lorem. Suspendisse nisl elit,
-                      rhoncus eget elementum acondimentum eget, diam. Nam at
-                      tortor in tellus interdum sagitliquam lobortis. Donec orci
-                      lectus, aliquam ut, faucibus non, euismod id, nulla.
-                      Curabitur blandit mollis lacus. Nam adipiscing. Vestibulum
-                      eu odio. Vivamus laoreet.
+                      Our internet services provide reliable, high-speed connectivity for both residential and business customers. With cutting-edge fiber optic technology and extensive 5G coverage, we ensure seamless browsing, streaming, and communication experiences. Our network infrastructure is designed to handle the growing demands of modern digital lifestyles and business operations.
                     </p>
                     <p>
-                      Lorem available market standard dummy text available
-                      market industry Lorem Ipsum simply dummy text of free
-                      available market.There are many variations of passages of
-                      Lorem Ipsum available, but the majority have suffered
-                      alteration in some form,
+                      We offer a range of internet plans to suit every need, from basic browsing packages to ultra-fast gigabit connections for power users. Our service areas continue to expand, bringing high-speed internet to underserved communities. All plans include 24/7 technical support and network security features to protect your online activities.
                     </p>
-                    <h4>Get touch have any question ?</h4>
+                    <h4>Have questions about our internet services?</h4>
                     <p>
-                      It is a long established fact that a reader will be distr
-                      acted bioiiy the end gail readable content of a page when
-                      looking.
+                      Our customer support team is available around the clock to assist with any inquiries about service availability, plan options, technical requirements, or billing questions. We're committed to providing clear information to help you choose the best internet solution for your needs.
                     </p>
                     <div
                       className="accordion accordion-inner accordion-icon-left mt-3 mb-4"
@@ -114,7 +102,7 @@ const ServiceDetailsArea = () => {
                             aria-expanded="true"
                             aria-controls="collapseOne"
                           >
-                            What services do you offer?
+                            What internet speeds do you offer?
                           </button>
                         </h2>
                         <div
@@ -124,9 +112,7 @@ const ServiceDetailsArea = () => {
                           data-bs-parent="#accordionExample"
                         >
                           <div className="accordion-body">
-                            Many desktop publishing packages and web page
-                            editors now use Lorem Ipsum as their default model
-                            text, search for 'lorem ipsum' will uncover
+                            We offer a range of speeds from 100Mbps to 1Gbps for residential customers, with even higher speeds available for business clients. Actual speeds may vary based on network conditions and your location within our service area.
                           </div>
                         </div>
                       </div>
@@ -140,7 +126,7 @@ const ServiceDetailsArea = () => {
                             aria-expanded="false"
                             aria-controls="collapseTwo"
                           >
-                            How long does it take for you to complete a project?
+                            How quickly can you install new service?
                           </button>
                         </h2>
                         <div
@@ -150,9 +136,7 @@ const ServiceDetailsArea = () => {
                           data-bs-parent="#accordionExample"
                         >
                           <div className="accordion-body">
-                            Many desktop publishing packages and web page
-                            editors now use Lorem Ipsum as their default model
-                            text, search for 'lorem ipsum' will uncover
+                            Most installations are completed within 2-3 business days in our coverage areas. Business installations may take 5-7 days depending on the complexity of the setup and any custom configurations required.
                           </div>
                         </div>
                       </div>
@@ -166,7 +150,7 @@ const ServiceDetailsArea = () => {
                             aria-expanded="false"
                             aria-controls="collapseThree"
                           >
-                            How much does it cost to work with your agency?
+                            Is there a contract required for service?
                           </button>
                         </h2>
                         <div
@@ -176,45 +160,39 @@ const ServiceDetailsArea = () => {
                           data-bs-parent="#accordionExample"
                         >
                           <div className="accordion-body">
-                            Many desktop publishing packages and web page
-                            editors now use Lorem Ipsum as their default model
-                            text, search for 'lorem ipsum' will uncover
+                            We offer both contract and no-contract options. Contract plans typically include discounted pricing and guaranteed rates, while no-contract plans provide more flexibility with month-to-month service.
                           </div>
                         </div>
                       </div>
                     </div>
-                    <h4>Our Best it company</h4>
+                    <h4>Why Choose Our Internet Services</h4>
                     <p>
-                      Thooiie point the of using the table.Your Startup industry
-                      is ours standard our service decesion loream saum solar
-                      sysem in the world.
+                      As a leading regional internet service provider, we combine cutting-edge technology with personalized customer service to deliver exceptional connectivity solutions for homes and businesses alike.
                     </p>
                     <div className="row">
                       <div className="col-md-6">
                         <ul className="single-list-inner style-check style-check mb-3">
                           <li>
-                            <FaCheckCircle /> Creating a Balanced and Nutritious
+                            <FaCheckCircle /> 99.9% network uptime guarantee
                           </li>
                           <li>
-                            <FaCheckCircle /> iTechnology that helps grow
-                            companies
+                            <FaCheckCircle /> No data caps on most plans
                           </li>
                           <li>
-                            <FaCheckCircle /> Everything you need to succeed
+                            <FaCheckCircle /> 24/7 local customer support
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-6">
                         <ul className="single-list-inner style-check style-check mb-3">
                           <li>
-                            <FaCheckCircle /> Creating a Balanced and Nutritious
+                            <FaCheckCircle /> Free professional installation
                           </li>
                           <li>
-                            <FaCheckCircle /> iTechnology that helps grow
-                            companies
+                            <FaCheckCircle /> Advanced network security included
                           </li>
                           <li>
-                            <FaCheckCircle /> Everything you need to succeed
+                            <FaCheckCircle /> Competitive pricing with no hidden fees
                           </li>
                         </ul>
                       </div>

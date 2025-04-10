@@ -24,12 +24,12 @@ const FooterOne = () => {
             >
               <div className="row">
                 <div className="col-lg-6">
-                  <h2 className="mb-lg-0 mb-3">Subscribe To Our Newsletter</h2>
+                  <h2 className="mb-lg-0 mb-3">Get Our Latest Telecom Updates</h2>
                 </div>
                 <div className="col-lg-6 align-self-center text-lg-end">
                   <input type="text" placeholder="Your e-mail address" />
                   <Link className="btn btn-black border-radius-0" href="#">
-                    Submit now
+                    Subscribe
                   </Link>
                 </div>
               </div>
@@ -38,22 +38,22 @@ const FooterOne = () => {
         </div>
         <div className="container">
           <div className="row">
-            <div className="col-lg-3 col-md-6">
+            <div className="col-lg-6 col-md-6">
               <div className="widget widget_about">
                 <div className="thumb">
                   <img src="assets/img/logo2.png" alt="img" />
                 </div>
                 <div className="details">
                   <p>
-                    Melbourne is simply is dumiomy is text Lorem Ipsum is simply
+                    Leading provider of 5G and fiber-optic <br /> internet solutions for homes and businesses
                   </p>
                   <p className="mt-3">
-                    <FaPhoneAlt /> (+888) 123 456 765
+                    <FaPhoneAlt /> (888) 555-1000
                   </p>
                   <p className="mt-2">
-                    <FaEnvelope /> (+888) 123 456 765
+                    <FaEnvelope /> support@telecomprovider.com
                   </p>
-                  <ul className="social-media">
+                  {/* <ul className="social-media">
                     <li>
                       <Link href="#">
                         <FaFacebookF />
@@ -74,42 +74,42 @@ const FooterOne = () => {
                         <FaYoutube />
                       </Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </div>
               </div>
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="widget widget_nav_menu">
-                <h4 className="widget-title">Our Service</h4>
+                <h4 className="widget-title">Our Services</h4>
                 <ul>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Ui Design
+                    <Link href="/services">
+                      <FaArrowRight /> 5G Mobile Plans
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Web design
+                    <Link href="/services">
+                      <FaArrowRight /> Fiber Internet
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Digital marketing{' '}
+                    <Link href="/services">
+                      <FaArrowRight /> Business Solutions
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Video Editing
+                    <Link href="/services">
+                      <FaArrowRight /> Home WiFi Setup
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Pc Repairs
+                    <Link href="/services">
+                      <FaArrowRight /> TV & Streaming
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Web Development
+                    <Link href="/services">
+                      <FaArrowRight /> 24/7 Support
                     </Link>
                   </li>
                 </ul>
@@ -117,44 +117,44 @@ const FooterOne = () => {
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="widget widget_nav_menu">
-                <h4 className="widget-title">Pay links</h4>
+                <h4 className="widget-title">Quick Links</h4>
                 <ul>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Credit industrys
+                    <Link href="/about">
+                      <FaArrowRight /> About Provider
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Reasearch sector
+                    <Link href="#">
+                      <FaArrowRight /> Coverage Map
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Finance Sector{' '}
+                    <Link href="#">
+                      <FaArrowRight /> Support Center
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Credit industrys
+                    <Link href="#">
+                      <FaArrowRight /> FAQ
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Reasearch sector
+                    <Link href="#">
+                      <FaArrowRight /> Careers
                     </Link>
                   </li>
                   <li>
-                    <Link href="/service">
-                      <FaArrowRight /> Finance Sector
+                    <Link href="/contact">
+                      <FaArrowRight /> Contact Us
                     </Link>
                   </li>
                 </ul>
               </div>
             </div>
-            <div className="col-lg-3 col-md-6">
+            {/* <div className="col-lg-3 col-md-6">
               <div className="widget widget-recent-post">
-                <h4 className="widget-title">Contact us</h4>
+                <h4 className="widget-title">Latest News</h4>
                 <ul>
                   <li>
                     <div className="media">
@@ -164,11 +164,11 @@ const FooterOne = () => {
                       <div className="media-body align-self-center">
                         <div className="post-info mb-2">
                           <FaCalendarAlt />
-                          <span>january 11, 2023</span>
+                          <span>January 11, 2023</span>
                         </div>
                         <h6 className="title mb-0">
                           <Link href="/blog-details">
-                            Social Media For Promote Business.
+                            5G Network Expansion Update
                           </Link>
                         </h6>
                       </div>
@@ -182,11 +182,11 @@ const FooterOne = () => {
                       <div className="media-body align-self-center">
                         <div className="post-info mb-2">
                           <FaCalendarAlt />
-                          <span>january 11, 2023</span>
+                          <span>January 5, 2023</span>
                         </div>
                         <h6 className="title mb-0">
                           <Link href="/blog-details">
-                            Marketing For Base market watch
+                            New Fiber Optic Packages
                           </Link>
                         </h6>
                       </div>
@@ -194,19 +194,19 @@ const FooterOne = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="footer-bottom">
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-self-center">
-                <p>© AglieTech 2024 | All Rights Reserved</p>
+                <p>© TelecomConnect 2024 | All Rights Reserved</p>
               </div>
               <div className="col-md-6 text-lg-end">
-                <Link href="#">Trams &amp; Condition</Link>
-                <Link href="#">Privacy Policy</Link>
-                <Link href="#">Contact Us</Link>
+                <Link href="/termsandcondition">Terms & Conditions</Link>
+                <Link href="/privacypolicy">Privacy Policy</Link>
+                <Link href="/contact">Contact Us</Link>
               </div>
             </div>
           </div>
