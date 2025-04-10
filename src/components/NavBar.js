@@ -114,14 +114,14 @@ const NavBar = () => {
 
               <li className="menu-item-has-children">
                 <Link href="#">Providers</Link>
-                {/* <ul className="sub-menu">
+                <ul className="sub-menu">
                   <li>
-                    <Link href="/blog">Blog</Link>
+                    <Link href="/verizon">Verizon</Link>
                   </li>
                   <li>
-                    <Link href="/blog-details">Blog Details</Link>
+                    <Link href="/spectrum">Spectrum</Link>
                   </li>
-                </ul> */}
+                </ul>
               </li>
               <li className="menu-item-has-children">
                 <Link href="#">Policy</Link>
