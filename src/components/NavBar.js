@@ -83,9 +83,9 @@ const NavBar = () => {
               <span className="icon-right" />
             </button>
           </div>
-          <div className="logo">
+          <div className="logo d-flex justify-content-center align-items-center mt-3">
             <Link href="/index-1">
-              <img src="assets/img/logo.png" alt="img" />
+             <h6 className='text-black '>Telecompaybill.us </h6>
             </Link>
           </div>
           <div className="nav-right-part nav-right-part-mobile">
@@ -157,7 +157,7 @@ const NavBar = () => {
                 <img src="assets/img/icon/1.png" alt="img" />
               </span>
               <span>Need help?</span>
-              <h5>(808) 555-0111</h5>
+              <h5>+1 888 427 7915</h5>
             </a>
           </div>
         </div>

@@ -9,7 +9,7 @@ const TeamAreaOne = () => {
       <div className="team-area bg-relative pd-top-90 pd-bottom-90">
         <div className="container">
           <div className="section-title text-center">
-            <h6 className="sub-title">TELECOM SPECIALISTS</h6>
+            <h6 className="sub-title"> Telecompaybill.us</h6>
             <h2 className="title">
               Your Partner In <span>Connectivity</span> Solutions
             </h2>

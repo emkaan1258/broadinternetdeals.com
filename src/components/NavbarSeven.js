@@ -378,7 +378,7 @@ const NavbarSeven = () => {
                 <img src="assets/img/icon/1.png" alt="img" />
               </span>
               <span>Need help?</span>
-              <h5>(808) 555-0111</h5>
+              <h5>‪+1 888 427 7915‬</h5>
             </a>
             <Link
               className="search-bar-btn mt-0 me-4"

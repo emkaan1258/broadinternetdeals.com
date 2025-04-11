@@ -9,9 +9,9 @@ import ServiceDetailsArea from "@/components/ServiceDetailsArea";
 
 
 export const metadata = {
-  title: "Service Details || AglieTech - IT Solutions & Technology NEXT JS Template",
+  title: "Service Details ||  telecompaybill.us",
   description:
-    "Agiletech provide you to build the best agency, app, business, digital, it services, it solutions, network solution, startup, technology, technology company, technology service template.",
+    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

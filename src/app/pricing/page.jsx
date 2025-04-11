@@ -6,9 +6,9 @@ import PriceAreaOne from "@/components/PriceAreaOne";
 
 
 export const metadata = {
-  title: "Price || AglieTech - IT Solutions & Technology NEXT JS Template",
+  title: "Price ||  telecompaybill.us",
   description:
-    "Agiletech provide you to build the best agency, app, business, digital, it services, it solutions, network solution, startup, technology, technology company, technology service template.",
+    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

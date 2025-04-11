@@ -7,7 +7,7 @@ import "../../public/assets/css/Spectrum.css";
 //   title: "Spectrum - Connectivity & Internet Solutions",
 // };
 const index = () => {
-  let phonenumber = "+1(844)224-8338"
+  let phonenumber = "+18883035819"
   return (
     <>
       <section style={{ overflow: "hidden" }}>
@@ -85,7 +85,7 @@ const index = () => {
                       <a className="banner-button" href="#">
                         SHOP INTERNET
                       </a>
-                      <span>855.507.6769</span>
+                      <span>+18883035819</span>
                     </div>
                   </div>
                 </div>
@@ -535,7 +535,7 @@ const index = () => {
                 <h2>Disclaimer</h2>
                 <p>
                   {" "}
-                  This is not an official website of Spectrum or any Telecommunication Service Provider but Official Site of vrzinternetcable.com (Marketing Partner). All of the logos used in vrzinternetcable.com are the property of their respective owners and are protected by copyright and trademark laws. All trademarks, logos, and related symbols remain the property of their respective owners and are used by vrzinternetcable.com solely to describe the products and services offered by each respective trademark holder. The use of any third-party trademarks on this site does not indicate any relationship between vrzinternetcable.com and the holders of those trademarks, nor does it imply any endorsement of vrzinternetcable.com by the holders of those trademarks. We may send updates to the mobile number/email id registered with us. The content is for information purposes only and does not constitute an offer to avail of any service. Prices mentioned are subject to change without notice and properties mentioned are subject to availability.
+                  This is not an official website of Spectrum or any  Telecompaybill.us Service Provider but Official Site of vrzinternetcable.com (Marketing Partner). All of the logos used in vrzinternetcable.com are the property of their respective owners and are protected by copyright and trademark laws. All trademarks, logos, and related symbols remain the property of their respective owners and are used by vrzinternetcable.com solely to describe the products and services offered by each respective trademark holder. The use of any third-party trademarks on this site does not indicate any relationship between vrzinternetcable.com and the holders of those trademarks, nor does it imply any endorsement of vrzinternetcable.com by the holders of those trademarks. We may send updates to the mobile number/email id registered with us. The content is for information purposes only and does not constitute an offer to avail of any service. Prices mentioned are subject to change without notice and properties mentioned are subject to availability.
 
 
                 </p>

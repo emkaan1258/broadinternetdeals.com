@@ -38,7 +38,7 @@ const FaqAreaOne = () => {
               <div className='section-title mb-0 mt-4 mt-lg-0'>
                 <h6 className='sub-title'>CONNECTIVITY FAQ'S</h6>
                 <h2 className='title'>
-                  Your <span>Telecom</span> Questions Answered
+                  Your <span> Telecompaybill.us</span> Questions Answered
                 </h2>
                 <p className='content'>
                   Get instant answers about our 5G networks, fiber internet, and support services.

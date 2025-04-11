@@ -537,6 +537,7 @@
       color: yellow;
       font-size: 80px;
       margin: 0;
+      text-align: left;
   }
 
   .heading p {
@@ -544,6 +545,7 @@
       font-weight: bold;
       font-size: 24px;
       margin: 10px 0;
+      text-align: left;
   }
 
   .heading a {

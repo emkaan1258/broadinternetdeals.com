@@ -15,7 +15,7 @@ const ServiceAreaGroup = () => {
         />
         <div className='container'>
           <div className='section-title text-center'>
-            <h6 className='sub-title'>TELECOM SERVICES</h6>
+            <h6 className='sub-title'> Telecompaybill.us SERVICES</h6>
             <h2 className='title'>
               Your Partner In <span>Connectivity</span> Solutions
             </h2>

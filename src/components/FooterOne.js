@@ -24,7 +24,7 @@ const FooterOne = () => {
             >
               <div className="row">
                 <div className="col-lg-6">
-                  <h2 className="mb-lg-0 mb-3">Get Our Latest Telecom Updates</h2>
+                  <h2 className="mb-lg-0 mb-3">Get Our Latest  Telecompaybill.us Updates</h2>
                 </div>
                 <div className="col-lg-6 align-self-center text-lg-end">
                   <input type="text" placeholder="Your e-mail address" />
@@ -48,10 +48,10 @@ const FooterOne = () => {
                     Leading provider of 5G and fiber-optic <br /> internet solutions for homes and businesses
                   </p>
                   <p className="mt-3">
-                    <FaPhoneAlt /> (888) 555-1000
+                    <FaPhoneAlt />  +1 888 427 7915
                   </p>
                   <p className="mt-2">
-                    <FaEnvelope /> support@telecomprovider.com
+                    <FaEnvelope /> support@ Telecompaybill.us.com
                   </p>
                   {/* <ul className="social-media">
                     <li>
@@ -201,7 +201,7 @@ const FooterOne = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-self-center">
-                <p>© TelecomConnect 2024 | All Rights Reserved</p>
+                <p>©  Telecompaybill.us 2024 | All Rights Reserved</p>
               </div>
               <div className="col-md-6 text-lg-end">
                 <Link href="/termsandcondition">Terms & Conditions</Link>
