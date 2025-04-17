@@ -201,7 +201,7 @@ const FooterOne = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-self-center">
-                <p>©  Telecompaybill.us 2024 | All Rights Reserved</p>
+                <p>©  Telecompaybill.us 2025 | All Rights Reserved</p>
               </div>
               <div className="col-md-6 text-lg-end">
                 <Link href="/termsandcondition">Terms & Conditions</Link>

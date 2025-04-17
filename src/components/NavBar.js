@@ -124,7 +124,7 @@ const NavBar = () => {
                 </ul>
               </li>
               <li className="menu-item-has-children">
-                <Link href="#">Policy</Link>
+                <Link href="#">Policies</Link>
                 <ul className="sub-menu">
                  
                   <li>
