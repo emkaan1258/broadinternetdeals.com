@@ -7,7 +7,7 @@ import "../../public/assets/css/Spectrum.css";
 //   title: "Spectrum - Connectivity & Internet Solutions",
 // };
 const index = () => {
-  let phonenumber = "+1(888) 303-5819"
+  let phonenumber = "+1(866) 358-8597"
   return (
     <>
       <section style={{ overflow: "hidden" }}>
