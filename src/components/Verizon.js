@@ -17,7 +17,7 @@ import { MdOutlineSignalWifiStatusbarConnectedNoInternet4 } from "react-icons/md
 
 const index = () => {
   const [openFaq, setOpenFaq] = useState(null);
-  let phonenumber = "+1(888) 427-6650";
+  let phonenumber = "+1 866 358 8597";
   const toggleFaq = (index) => {
     setOpenFaq(openFaq === index ? null : index);
   };
@@ -153,7 +153,7 @@ const index = () => {
                   </div>
                   <div className="firsttext-rapo text-center">
                     <FaWifi className="text-danger" />
-                    <p>Call-Us Now +1 888 427 6650</p>
+                    <p>Call-Us Now +1 866 358 8597</p>
                   </div>
                 </div>
               </div>
@@ -203,7 +203,7 @@ const index = () => {
                       </div>
                       <div className="card-btn">
                         <a href="#" className="btn ">
-                          Call Now +1 888 427 6650
+                          Call Now +1 866 358 8597
                         </a>
                       </div>
                     </div>
@@ -243,7 +243,7 @@ const index = () => {
                       </div>
                       <div className="card-btn">
                         <a href="#" className="btn ">
-                          Call Now +1 888 427 6650
+                          Call Now +1 866 358 8597
                         </a>
                       </div>
                     </div>
@@ -283,7 +283,7 @@ const index = () => {
                       </div>
                       <div className="card-btn">
                         <a href="#" className="btn ">
-                          Call Now +1 888 427 6650
+                          Call Now +1 866 358 8597
                         </a>
                       </div>
                     </div>
