@@ -23,15 +23,10 @@ const FooterOne = () => {
               style={{ backgroundImage: 'url("./assets/img/bg/6.png")' }}
             >
               <div className="row">
-                <div className="col-lg-6">
-                  <h2 className="mb-lg-0 mb-3">Get Our Latest  Telecompaybill.us Updates</h2>
+                <div className="col-lg-12">
+                  <p className="mb-lg-0 mb-3 text-center text-white fs-5">We are an authorized retailer of Optimum, Spectrum, AT&T, Frontier, and Earthlink</p>
                 </div>
-                <div className="col-lg-6 align-self-center text-lg-end">
-                  <input type="text" placeholder="Your e-mail address" />
-                  <Link className="btn btn-black border-radius-0" href="#">
-                    Subscribe
-                  </Link>
-                </div>
+               
               </div>
             </div>
           </div>
@@ -41,7 +36,7 @@ const FooterOne = () => {
             <div className="col-lg-6 col-md-6">
               <div className="widget widget_about">
                 <div className="thumb">
-                  <img src="assets/img/logo2.png" alt="img" />
+                 <h3 className='text-white'>Telecompaybill.us</h3>
                 </div>
                 <div className="details">
                   <p>
@@ -78,7 +73,7 @@ const FooterOne = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-3 col-md-6">
+            {/* <div className="col-lg-3 col-md-6">
               <div className="widget widget_nav_menu">
                 <h4 className="widget-title">Our Services</h4>
                 <ul>
@@ -114,36 +109,27 @@ const FooterOne = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
             <div className="col-lg-3 col-md-6">
               <div className="widget widget_nav_menu">
                 <h4 className="widget-title">Quick Links</h4>
                 <ul>
+                   <li>
+                    <Link href="/">
+                      <FaArrowRight /> Home
+                    </Link>
+                  </li>
                   <li>
                     <Link href="/about">
-                      <FaArrowRight /> About Provider
+                      <FaArrowRight /> About Us
                     </Link>
                   </li>
                   <li>
-                    <Link href="#">
-                      <FaArrowRight /> Coverage Map
+                    <Link href="/service">
+                      <FaArrowRight /> services
                     </Link>
                   </li>
-                  <li>
-                    <Link href="#">
-                      <FaArrowRight /> Support Center
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="#">
-                      <FaArrowRight /> FAQ
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="#">
-                      <FaArrowRight /> Careers
-                    </Link>
-                  </li>
+               
                   <li>
                     <Link href="/contact">
                       <FaArrowRight /> Contact Us

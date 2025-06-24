@@ -130,9 +130,9 @@ const NavBar = () => {
                   <li>
                     <Link href="/termsandcondition">TermsAndConditions</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/disclaimer">Disclamier</Link>
-                  </li>
+                  </li> */}
                   <li>  
                     <Link href="/privacypolicy">PrivacyPolicy</Link>
                     </li>
@@ -144,6 +144,8 @@ const NavBar = () => {
                   </li> */}
                 </ul>
               </li>
+
+              <li ><Link href="/privacypolicy">PrivacyPolicy</Link></li>
               <li>
                 <Link href="/contact">Contact</Link>
               </li>
@@ -151,7 +153,7 @@ const NavBar = () => {
 
             </ul>
           </div>
-          <div className="nav-right-part nav-right-part-desktop align-self-center">
+          <div className="nav-right-part nav-right-part-desktop d-xl-block d-lg-none align-self-center">
             <a className="navbar-phone" href="tel:">
               <span className="icon">
                 <img src="assets/img/icon/1.png" alt="img" />

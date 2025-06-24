@@ -1,0 +1,86 @@
+
+.provider-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.provider-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.provider-card .cover-image {
+    position: relative;
+    overflow: hidden;
+    height: 150px;
+    border-radius: 10px 10px 0 0;
+}
+
+.provider-card .cover-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.provider-card:hover .cover-image img {
+    transform: scale(1.05);
+}
+
+.provider-card .logo-holder {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: -50px auto 0;
+    background: #fff;
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.provider-card .logo-holder img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
+.provider-card:hover .image-holder img {
+    transform: scale(1.05);
+}
+
+.provider-card .content {
+    padding: 25px;
+    text-align: center;
+}
+
+.provider-card .content h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #222;
+}
+
+.provider-card .content p {
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.provider-card .btn-learn-more {
+    display: inline-block;
+    padding: 12px 30px;
+    background: #2c3e50;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.provider-card .btn-learn-more:hover {
+    background: #34495e;
+    transform: translateY(-2px);
+}

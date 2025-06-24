@@ -9,6 +9,7 @@ import FaqAreaOne from "@/components/FaqAreaOne";
 import FooterOne from "@/components/FooterOne";
 import NavBar from "@/components/NavBar";
 import PricingAreaOne from "@/components/PricingAreaOne";
+import ProviderCard from "@/components/Providrcards";
 import ServiceAreaOne from "@/components/ServiceAreaOne";
 import TeamAreaOne from "@/components/TeamAreaOne";
 import WorkProcessOne from "@/components/WorkProcessOne";
@@ -29,6 +30,8 @@ const page = () => {
 
       {/* Banner One */}
       <BannerOne />
+
+      <ProviderCard/>
 
       {/* About Area One */}
       <AboutAreaOne />
