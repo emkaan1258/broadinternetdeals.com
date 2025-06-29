@@ -52,6 +52,11 @@ const AboutAreaOne = () => {
                   fiber-optic solutions to homes and businesses across the country.
                   Our mission is to bridge the digital divide with reliable connectivity.
                 </p>
+                 <p className='content'>
+                  We are dedicated to delivering top-quality internet, cable, and phone services to our customers. As an authorized dealer, we offer services from leading providers such as Spectrum, Verizon, Optimum, CenturyLink, AT&T, and T-Mobile.
+                </p>
+                <h5 className="mt-4">Telecompaybill.us is operated by Fast Connection LLC.</h5>
+                
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='single-about-inner'>

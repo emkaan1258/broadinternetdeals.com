@@ -11,9 +11,13 @@ const PrivacyPolicy = () => {
               Privacy <span>Policy</span>
             </h2>
             <h6 className="sub-title">INTERNET SERVICE PROVIDER</h6>
+
           </div>
           
-          <div className="privacy-content px-lg-5 text-left">
+          <div className="privacy-content px-lg-5 text-left ">
+          <p className='mb-4'> 
+            Telecompaybill.us is operated by Fast Connection LLC, which partners with major telecommunications providers to offer internet, cable, and phone services. At Telecompaybill.us , we take your privacy seriously. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website or use our Internet, cable, and phone services. By accessing or using our services, you consent to the practices described in this policy.
+          </p>
             <h4 className="mb-3">1. Information We Collect</h4>
             <p className="mb-4">
               As your internet service provider, we collect information necessary to provide and improve our services. This includes: account registration details, service usage data, device information, network performance metrics, and payment information. We may also collect browsing history and application usage data in accordance with applicable laws.
@@ -28,6 +32,17 @@ const PrivacyPolicy = () => {
             <p className="mb-4">
               We implement robust security measures including encryption, firewalls, and access controls to protect your personal information and internet activity. Our network security protocols meet industry standards to safeguard against unauthorized access, alteration, or destruction of data.
             </p>
+             <p className="mb-4">
+              We protect our current and potential customers' personal information by using industry-standard security measures, including:
+            </p>
+            <ul>
+              <li className='mt-4'>SSL encryption to secure data transmission.</li>
+              <li className='mt-4'>Restricted access to customer data, available only to authorized personnel.</li>
+              <li className='mt-4'>Regular monitoring and updates to prevent unauthorized access.</li>
+              <li className='mt-4'>Compliance with applicable U.S. data privacy laws (e.g., CCPA, where applicable).</li>
+            </ul>
+
+
 
             <h4 className="mb-3">4. Network Management</h4>
             <p className="mb-4">

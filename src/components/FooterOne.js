@@ -10,6 +10,7 @@ import {
   FaTwitter,
   FaYoutube,
 } from 'react-icons/fa';
+import { FaLocationDot } from 'react-icons/fa6';
 
 const FooterOne = () => {
   return (
@@ -43,10 +44,13 @@ const FooterOne = () => {
                     Leading provider of 5G and fiber-optic <br /> internet solutions for homes and businesses
                   </p>
                   <p className="mt-3">
-                    <FaPhoneAlt />  +1 888 427 7915
+                    <FaLocationDot /> 3564 Spring Creek Rd, Dundee, FL 33838-3710
                   </p>
                   <p className="mt-2">
                     <FaEnvelope /> support@ Telecompaybill.us.com
+                  </p>
+                   <p className="mt-2">
+                    <FaPhoneAlt />  +1 888 427 7915
                   </p>
                   {/* <ul className="social-media">
                     <li>
@@ -187,7 +191,7 @@ const FooterOne = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-self-center">
-                <p>©  Telecompaybill.us 2025 | All Rights Reserved</p>
+                <p>© 2025 Telecompaybill.us – Operated by Fast Connection LLC. All rights reserved.</p>
               </div>
               <div className="col-md-6 text-lg-end">
                 <Link href="/termsandcondition">Terms & Conditions</Link>
