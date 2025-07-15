@@ -17,7 +17,7 @@ import { MdOutlineSignalWifiStatusbarConnectedNoInternet4 } from "react-icons/md
 
 const index = () => {
   const [openFaq, setOpenFaq] = useState(null);
-  let phonenumber = "+1(888) 643-4744";
+  let phonenumber = "+1(855) 996-5830";
   const toggleFaq = (index) => {
     setOpenFaq(openFaq === index ? null : index);
   };
