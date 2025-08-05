@@ -19,6 +19,9 @@ export const metadata = {
   title: "Home ||  telecompaybill.us",
   description:
     " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
+  verification: {
+    google: "qpl1HeP8DG536nsy7RModsK6mwzKY56LzX16GWltJWU",
+  },
 };
 
 
