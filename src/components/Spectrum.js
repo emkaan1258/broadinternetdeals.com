@@ -4,9 +4,12 @@ import React from 'react';
 import Head from 'next/head';
 import "../../public/assets/css/Spectrum.css";
 
-// export const metadata = {
-//   title: "Spectrum - Connectivity & Internet Solutions",
-// };
+export const metadata = {
+  verification: {
+    google: "qpl1HeP8DG536nsy7RModsK6mwzKY56LzX16GWltJWU",
+  },
+};
+
 const index = () => {
   let phonenumber = "+18332215516"
   return (
