@@ -10,6 +10,13 @@ const index = () => {
   let phonenumber = "+18332215516"
   return (
     <>
+<Head>
+        <meta
+          name="google-site-verification"
+          content="qpl1HeP8DG536nsy7RModsK6mwzKY56LzX16GWltJWU"
+        />
+        
+      </Head>
       <section style={{ overflow: "hidden" }}>
        
          
