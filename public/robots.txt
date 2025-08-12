@@ -1,13 +1,4 @@
 User-agent: *
-Disallow: /
-Noindex: /
+Allow: /
 
-# Specifically block important pages
-Disallow: /spectrum
-Disallow: /verizon
-Disallow: /spectrum/*
-Disallow: /verizon/*
-
-# Block all other paths
-Disallow: /*
-Noindex: /*
+Sitemap: https://telecompaybill.us/sitemap.xml
