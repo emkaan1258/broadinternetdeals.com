@@ -9,9 +9,9 @@ import TeamAreaOne from "@/components/TeamAreaOne";
 
 
 export const metadata = {
-  title: "Project ||  telecompaybill.us",
+  title: "Project ||  broadinternetdeals.com",
   description:
-    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
+    " broadinternetdeals.com provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

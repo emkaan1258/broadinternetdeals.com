@@ -37,7 +37,7 @@ const FooterOne = () => {
             <div className="col-lg-6 col-md-6">
               <div className="widget widget_about">
                 <div className="thumb">
-                 <h3 className='text-white'>Telecompaybill.us</h3>
+                 <h3 className='text-white'>broadinternetdeals.com</h3>
                 </div>
                 <div className="details">
                   <p>
@@ -47,7 +47,7 @@ const FooterOne = () => {
                     <FaLocationDot /> 3564 Spring Creek Rd, Dundee, FL 33838-3710
                   </p>
                   <p className="mt-2">
-                    <FaEnvelope /> support@ Telecompaybill.us.com
+                    <FaEnvelope /> support@ broadinternetdeals.com.com
                   </p>
                    <p className="mt-2">
                     <FaPhoneAlt />  +1 888 427 7915
@@ -191,7 +191,7 @@ const FooterOne = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-self-center">
-                <p>© 2025 Telecompaybill.us – Operated by Fast Connection LLC. All rights reserved.</p>
+                <p>© 2025 broadinternetdeals.com – Operated by Fast Connection LLC. All rights reserved.</p>
               </div>
               <div className="col-md-6 text-lg-end">
                 <Link href="/termsandcondition">Terms & Conditions</Link>

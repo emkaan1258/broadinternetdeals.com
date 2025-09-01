@@ -4,9 +4,9 @@ import FooterOne from "@/components/FooterOne";
 import NavBar from "@/components/NavBar";
 
 export const metadata = {
-  title: "Blog ||  telecompaybill.us",
+  title: "Blog ||  broadinternetdeals.com",
   description:
-    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
+    " broadinternetdeals.com provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

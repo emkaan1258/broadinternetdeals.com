@@ -14,9 +14,9 @@ import WorkProcessOne from "@/components/WorkProcessOne";
 
 
 export const metadata = {
-  title: "About ||  telecompaybill.us",
+  title: "About ||  broadinternetdeals.com",
   description:
-    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
+    " broadinternetdeals.com provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

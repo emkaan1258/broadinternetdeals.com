@@ -9,9 +9,9 @@ import ServiceDetailsArea from "@/components/ServiceDetailsArea";
 
 
 export const metadata = {
-  title: "Service Details ||  telecompaybill.us",
+  title: "Service Details ||  broadinternetdeals.com",
   description:
-    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
+    " broadinternetdeals.com provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

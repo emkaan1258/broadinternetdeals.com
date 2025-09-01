@@ -9,9 +9,9 @@ import NavBar from "@/components/NavBar";
 
 
 export const metadata = {
-  title: "Contact ||  telecompaybill.us",
+  title: "Contact ||  broadinternetdeals.com",
   description:
-    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
+    " broadinternetdeals.com provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

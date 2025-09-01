@@ -16,7 +16,7 @@ const PrivacyPolicy = () => {
           
           <div className="privacy-content px-lg-5 text-left ">
           <p className='mb-4'> 
-            Telecompaybill.us is operated by Fast Connection LLC, which partners with major telecommunications providers to offer internet, cable, and phone services. At Telecompaybill.us , we take your privacy seriously. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website or use our Internet, cable, and phone services. By accessing or using our services, you consent to the practices described in this policy.
+            broadinternetdeals.com is operated by Fast Connection LLC, which partners with major telecommunications providers to offer internet, cable, and phone services. At broadinternetdeals.com , we take your privacy seriously. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website or use our Internet, cable, and phone services. By accessing or using our services, you consent to the practices described in this policy.
           </p>
             <h4 className="mb-3">1. Information We Collect</h4>
             <p className="mb-4">

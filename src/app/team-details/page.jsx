@@ -6,9 +6,9 @@ import TeamDetailsGroup from "@/components/TeamDetailsGroup";
 
 
 export const metadata = {
-  title: "Team Details ||  telecompaybill.us",
+  title: "Team Details ||  broadinternetdeals.com",
   description:
-    " Telecompaybill.us provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
+    " broadinternetdeals.com provides top-quality internet services to help you build the best agency, app, business, or digital solution.",
 };
 
 

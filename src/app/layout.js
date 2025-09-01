@@ -4,7 +4,7 @@ import "./font.css";
 import "./globals.scss";
 
 export const metadata = {
-  title: "Service ||  telecompaybill.us",
+  title: "Service ||  broadinternetdeals.com",
   description: "",
   robots: {
     index: false,

@@ -85,7 +85,7 @@ const NavBar = () => {
           </div>
           <div className="logo d-flex justify-content-center align-items-center mt-3">
             <Link href="/index-1">
-             <h6 className='text-black '>Telecompaybill.us </h6>
+             <h6 className='text-black '>broadinternetdeals.com </h6>
             </Link>
           </div>
           <div className="nav-right-part nav-right-part-mobile">
