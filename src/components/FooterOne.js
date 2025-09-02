@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import React from 'react';
+import Link from "next/link";
+import React from "react";
 import {
   FaArrowRight,
   FaCalendarAlt,
@@ -9,8 +9,8 @@ import {
   FaPhoneAlt,
   FaTwitter,
   FaYoutube,
-} from 'react-icons/fa';
-import { FaLocationDot } from 'react-icons/fa6';
+} from "react-icons/fa";
+import { FaLocationDot } from "react-icons/fa6";
 
 const FooterOne = () => {
   return (
@@ -25,9 +25,11 @@ const FooterOne = () => {
             >
               <div className="row">
                 <div className="col-lg-12">
-                  <p className="mb-lg-0 mb-3 text-center text-white fs-5">We are an authorized retailer of Optimum, Spectrum, AT&T, Frontier, and Earthlink</p>
+                  <p className="mb-lg-0 mb-3 text-center text-white fs-5">
+                    We are an authorized retailer of Optimum, Spectrum, AT&T,
+                    Frontier, and Earthlink
+                  </p>
                 </div>
-               
               </div>
             </div>
           </div>
@@ -37,20 +39,22 @@ const FooterOne = () => {
             <div className="col-lg-6 col-md-6">
               <div className="widget widget_about">
                 <div className="thumb">
-                 <h3 className='text-white'>broadinternetdeals.com</h3>
+                  <h3 className="text-white">broadinternetdeals.com</h3>
                 </div>
                 <div className="details">
                   <p>
-                    Leading provider of 5G and fiber-optic <br /> internet solutions for homes and businesses
+                    Leading provider of 5G and fiber-optic <br /> internet
+                    solutions for homes and businesses
                   </p>
                   <p className="mt-3">
-                    <FaLocationDot /> 3564 Spring Creek Rd, Dundee, FL 33838-3710
+                    <FaLocationDot /> 25320 WHIPPOORWILL TER
+SOUTH RIDING, VA 20152
                   </p>
                   <p className="mt-2">
-                    <FaEnvelope /> support@ broadinternetdeals.com.com
+                    <FaEnvelope /> admin@gmsgconsulting.online
                   </p>
-                   <p className="mt-2">
-                    <FaPhoneAlt />  +1 888 427 7915
+                  <p className="mt-2">
+                    <FaPhoneAlt /> +1 888 427 7915
                   </p>
                   {/* <ul className="social-media">
                     <li>
@@ -118,7 +122,7 @@ const FooterOne = () => {
               <div className="widget widget_nav_menu">
                 <h4 className="widget-title">Quick Links</h4>
                 <ul>
-                   <li>
+                  <li>
                     <Link href="/">
                       <FaArrowRight /> Home
                     </Link>
@@ -133,7 +137,7 @@ const FooterOne = () => {
                       <FaArrowRight /> services
                     </Link>
                   </li>
-               
+
                   <li>
                     <Link href="/contact">
                       <FaArrowRight /> Contact Us
@@ -191,7 +195,10 @@ const FooterOne = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-self-center">
-                <p>© 2025 broadinternetdeals.com – Operated by Fast Connection LLC. All rights reserved.</p>
+                <p>
+                  © 2025 broadinternetdeals.com – Operated by Global Marketing
+                  Solutions Group llc. All rights reserved.
+                </p>
               </div>
               <div className="col-md-6 text-lg-end">
                 <Link href="/termsandcondition">Terms & Conditions</Link>

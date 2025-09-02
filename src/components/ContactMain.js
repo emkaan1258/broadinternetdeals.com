@@ -127,7 +127,7 @@ const ContactMain = () => {
                 </div>
                 <div className="media-body">
                   <h5>Technical Support</h5>
-                  <h6>support@yourisp.com</h6>
+                  <h6>admin@gmsgconsulting.online</h6>
                 </div>
               </div>
             </div>
@@ -138,7 +138,7 @@ const ContactMain = () => {
                 </div>
                 <div className="media-body">
                   <h5>Business Inquiries</h5>
-                  <h6>sales@yourisp.com</h6>
+                  {/* <h6>sales@yourisp.com</h6> */}
                 </div>
               </div>
             </div>
