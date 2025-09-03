@@ -11,7 +11,6 @@ import {
   FaYoutube,
 } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
-
 const FooterOne = () => {
   return (
     <>
@@ -196,8 +195,7 @@ SOUTH RIDING, VA 20152
             <div className="row">
               <div className="col-md-6 align-self-center">
                 <p>
-                  © 2025 broadinternetdeals.com – Operated by Global Marketing
-                  Solutions Group llc. All rights reserved.
+                  © 2025 broadinternetdeals.com – Operated by Broadband Essentials LLC. All rights reserved.
                 </p>
               </div>
               <div className="col-md-6 text-lg-end">
