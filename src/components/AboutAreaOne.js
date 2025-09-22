@@ -60,7 +60,7 @@ const AboutAreaOne = () => {
                   Verizon, Optimum, CenturyLink, AT&T, and T-Mobile.
                 </p>
                 <h5 className="mt-4">
-                  broadinternetdeals.com is operated by Broadband Essentials LLC.
+                  broadinternetdeals.com is operated by Global Marketing Solutions Group LLC.
                 </h5>
 
                 <div className="row">

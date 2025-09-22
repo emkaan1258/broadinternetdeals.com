@@ -16,7 +16,7 @@ const TermsAndConditions = () => {
           <div className="terms-content px-lg-5 text-left">
             <h4 className="mb-3">1. Policy</h4>
             <p className="mb-4">
-              broadinternetdeals.com is a service operated by Broadband Essentials LLC, acting as an authorized dealer for internet
+              broadinternetdeals.com is a service operated by Global Marketing Solutions Group LLC, acting as an authorized dealer for internet
               and cable services from major providers including Spectrum,
               Verizon, Optimum, CenturyLink, AT&T, and T-Mobile.
             </p>
