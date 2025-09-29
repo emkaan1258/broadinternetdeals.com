@@ -27,7 +27,7 @@ const index = () => {
        
            
           <div style={{ width: "300px", height: "auto" }}>
-            {/* <img loading="lazy" src="/assets/img/verizon-logo.png" alt="Logo" /> */}
+            <img loading="lazy" src="/assets/img/verizon-logo.png" alt="Logo" />
           </div>
           <section className="banner">
             <a href={`tel:${phonenumber}`}>
@@ -40,12 +40,12 @@ const index = () => {
                     <p>Call Us: {phonenumber} </p>
                   </div>
                   <div className="popupContent">
-                    {/* <img
+                    <img
                       loading="lazy"
                       src="/assets/img/verizon-logo.png"
                       alt="Logo"
                       className="logo"
-                    /> */}
+                    />
                     <h2 className="heading">
                       Call to Pay Your Bill <br />
                       Now
