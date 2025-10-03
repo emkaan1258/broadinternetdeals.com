@@ -25,8 +25,7 @@ const FooterOne = () => {
               <div className="row">
                 <div className="col-lg-12">
                   <p className="mb-lg-0 mb-3 text-center text-white fs-5">
-                    We are an authorized retailer of Optimum, Spectrum, AT&T,
-                    Frontier, and Earthlink
+                    We are an authorized retailer verizon, Spectrum
                   </p>
                 </div>
               </div>
