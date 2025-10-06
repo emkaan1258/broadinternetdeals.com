@@ -11,7 +11,7 @@ export const metadata = {
 };
 
 const index = () => {
-  let phonenumber = "+1(844) 675-7601"
+  let phonenumber = "+1(888) 469-1890"
   return (
     <>
       <Head>
