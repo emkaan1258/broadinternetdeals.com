@@ -30,7 +30,7 @@ const index = () => {
             <img loading="lazy" src="/assets/img/verizon-logo.png" alt="Logo" />
           </div>
           <section className="banner">
-            {/* <a href={`tel:${phonenumber}`}>
+             <a href={`tel:${phonenumber}`}>
               <div className="overlay">
                 <div className="popup">
                   <div
@@ -65,7 +65,7 @@ const index = () => {
                   </div>
                 </div>
               </div>
-            </a> */}
+            </a>
             <div className="container">
               <div className="row">
                 <div className="col-12">
