@@ -15,7 +15,7 @@ const PrivacyPolicy = () => {
 
           <div className="privacy-content px-lg-5 text-left ">
             <p className="mb-4">
-              broadinternetdeals.com is operated by Global Marketing Solutions Group LLC, which partners with major telecommunications providers
+              broadinternetdeals.com is operated by Fast Connection LLC, which partners with major telecommunications providers
               to offer internet, cable, and phone services. At
               broadinternetdeals.com , we take your privacy seriously. This
               Privacy Policy outlines how we collect, use, disclose, and protect
